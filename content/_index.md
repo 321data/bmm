@@ -1,0 +1,1 @@
+Hi, I'm Michael Russell. This is a site that explains why I'm fasting for three days.

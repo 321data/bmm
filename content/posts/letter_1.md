@@ -4,6 +4,8 @@ title = "Letter to Bishop Martin #1"
 date = "2025-11-13"
 +++
 
+_Author Note: This letter was sent in the form of an email on November 13, 2025 with a physical print-out mailed to the Bishop's office. The officers of the Presbyteral Council were emailed a copy as well. On November 26, 2025, a follow-up email was sent to the Bishop containing a copy of the below contents. A copy of that email was sent to every member of the Presbyteral Council (where I could find an email)._
+
 Dear Bishop Martin,
 
 There are substantiated reports that you intend to direct the priests of this Diocese to no longer allow the faithful to use Communion rails for the reception of Holy Communion. You must not follow through with this directive and instead allow the faithful to use Communion rails.

@@ -5,6 +5,7 @@ date = "2025-11-13"
 +++
 
 > “Who is going to save our Church? Not our bishops, not our priests and religious. It is up to you, the people. You have the minds, the eyes, and the ears to save the Church. Your mission is to see that your priests act like priests, your bishops act like bishops, and your religious act like religious.”
+
 _Venerable Fulton Sheen, June 1972_
 
 Dear Bishop Martin,
@@ -15,5 +16,5 @@ Last year, I attended an Installation Mass where you gave a homily asking the co
 
 The voice of God is clear: I will hold a public three day fast in front of the Diocesan office starting the first Monday of Advent unless you guarantee pastors and faithful the right to use Communion rails. While I personally hate the idea of being seen as an activist, God is calling me to do this and I cannot say no. The spiritual freedom for my family and the rest of the faithful, and the call to resist this abuse of power is too great to ignore.
 
-In Christ,
+In Christ,  
 Michael Russell
